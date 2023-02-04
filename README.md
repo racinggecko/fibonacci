@@ -1,2 +1,1 @@
-# fibonacci
-A simple script for generating the fibbonaci sequence.
+This script uses a loop to generate the Fibonacci sequence and appends each term to a list. The list is then returned as the final result. The user is prompted to enter the number of terms they want in the sequence, and the resulting sequence is printed to the console.
